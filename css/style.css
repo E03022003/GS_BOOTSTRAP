@@ -7,3 +7,25 @@ body {
     background-color: rgb(244, 231, 255);
     border: 1px blueviolet solid;
 }
+
+.my-navbar-color {
+    background-color: rgb(174, 87, 255) !important;
+}
+
+.my-color-btn {
+    color: azure;
+    background-color: rgb(174, 87, 255);
+    border-color: azure;
+}
+
+.my-color-btn:hover {
+    background-color: rgb(143, 23, 255);
+    color: azure;
+    border-color: azure;
+}
+
+.my-h1-color {
+    color: azure;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4em !important; 
+}
